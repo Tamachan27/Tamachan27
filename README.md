@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Tama
+# 👋 Hi, I'm YOUR_NAME
 
 </div>
 
@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 現在取り組んでいること: 〇〇
-- 🌱 勉強中のこと: 統計的因果推論、異質性
+- 🌱 Currently learning: Some
+- 💬 Interests: Data Analysis / Statistics
 
 <br>
 
@@ -17,11 +17,27 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" alt="Python" />
-
+<img src="https://skillicons.dev/icons?i=python" alt="Python" height="50"/>
+&nbsp;&nbsp;
 ![SPSS](https://img.shields.io/badge/SPSS-0058A3?style=for-the-badge&logo=ibm&logoColor=white)
 
 </div>
+
+<br>
+
+## 📈 Analysis Experience
+
+**Python**
+- Regression Discontinuity Design (RDD)
+- Random Forest (RF)
+- Principal Component Analysis (PCA)
+- Propensity Score Matching (PSM)
+
+**SPSS**
+- Multiple Regression
+- Logistic Regression
+- Decision Tree
+- Descriptive Statistics
 
 <br>
 
@@ -42,18 +58,8 @@
 
 <br>
 
-## 🎧 Now Playing (Spotify)
-
 <div align="center">
 
-[![Spotify](https://open.spotify.com/user/73b31vzfia5bxj8llianbwveu?si=a0d45580c4e244da)
-
-</div>
-
-<br>
-
-<div align="center">
-
-⭐️ from [Tamachan27](https://github.com/YOUR_GITHUB_USERNAME)
+⭐️ from [YOUR_GITHUB_USERNAME](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
