@@ -1,27 +1,17 @@
-<div align="center">
-
-# 👋 Hi, I'm YOUR_NAME
-
-</div>
-
-<br>
-
 ## 🧑‍💻 About Me
-
-- 🌱 Currently learning: Some
-- 💬 Interests: Data Analysis / Statistics
+major - DateScience
 
 <br>
 
 ## 📈 Analysis Experience
 
-**Python**
+**Python**　: VS code, Google colabolatory で勉強中…
 - Regression Discontinuity Design (RDD)
 - Random Forest (RF)
 - Principal Component Analysis (PCA)
 - Propensity Score Matching (PSM)
 
-**SPSS**
+**SPSS** 今年は重みづけとベイズをやれるようになることが目標…
 - Multiple Regression
 - Logistic Regression
 - Decision Tree
