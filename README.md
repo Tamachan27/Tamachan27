@@ -1,5 +1,5 @@
 ## 🧑‍💻 About Me
-study - DateScience,Epidemiology
+major - DateScience, Epidemiology
 
 <br>
 
