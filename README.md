@@ -1,8 +1,3 @@
-## 🧑‍💻 About Me
-major - DateScience, Epidemiology
-
-<br>
-
 ## 📈 Analysis Experience
 
 📈**Python**: VS code, Google colabolatory 
@@ -15,4 +10,4 @@ major - DateScience, Epidemiology
 - Multiple Regression
 - Logistic Regression
 - Decision Tree
-- Descriptive Statistics
+- Descriptive Statistics …
